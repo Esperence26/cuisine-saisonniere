@@ -1,0 +1,133 @@
+{
+  "app": {
+    "name": "Saisonale Küche"
+  },
+  "nav": {
+    "home": "Startseite",
+    "products": "Produkte",
+    "recipes": "Rezepte",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "profile": "Profil",
+    "orders": "Bestellungen",
+    "logout": "Abmelden"
+  },
+  "home": {
+    "hero": {
+      "title": "Entdecken Sie saisonale Küche",
+      "subtitle": "Frische, lokale Produkte für köstliche Rezepte",
+      "cta_primary": "Produkte ansehen",
+      "cta_secondary": "Unsere Rezepte"
+    },
+    "featured_recipes": {
+      "title": "Aktuelle Rezepte",
+      "subtitle": "Ideen zum Kochen mit Saisonprodukten"
+    },
+    "seasonal_products": {
+      "title": "Saisonale Produkte",
+      "subtitle": "Sorgfältig ausgewählt von unseren lokalen Produzenten"
+    },
+    "features": {
+      "title": "Warum Saisonale Küche wählen?",
+      "subtitle": "Vorteile, die den Unterschied machen",
+      "seasonal": "Saisonprodukte",
+      "seasonal_desc": "Frische Produkte in ihrer besten Saison",
+      "local": "Lokale Produzenten",
+      "local_desc": "Ein Netzwerk leidenschaftlicher Produzenten",
+      "delivery": "Schnelle Lieferung",
+      "delivery_desc": "Lieferung nach Hause oder an Abholpunkte"
+    }
+  },
+  "products": {
+    "title": "Unsere Produkte",
+    "filter": {
+      "all": "Alle",
+      "vegetables": "Gemüse",
+      "fruits": "Obst",
+      "dairy": "Milchprodukte",
+      "meat": "Fleisch",
+      "fish": "Fisch"
+    },
+    "sort": {
+      "price_asc": "Preis aufsteigend",
+      "price_desc": "Preis absteigend",
+      "name_asc": "A bis Z",
+      "name_desc": "Z bis A"
+    },
+    "season": {
+      "spring": "Frühling",
+      "summer": "Sommer",
+      "autumn": "Herbst",
+      "winter": "Winter"
+    }
+  },
+  "recipe": {
+    "description": "Beschreibung",
+    "ingredients": "Zutaten",
+    "instructions": "Anleitung",
+    "portions": "Portionen",
+    "portions_calculator": "Portionsrechner",
+    "preparation_time": "Zubereitungszeit",
+    "cooking_time": "Garzeit",
+    "total_time": "Gesamtzeit",
+    "difficulty": {
+      "easy": "Einfach",
+      "medium": "Mittel",
+      "hard": "Schwer"
+    },
+    "add_to_cart": "Zutaten in den Warenkorb",
+    "save": "Speichern",
+    "share": "Teilen"
+  },
+  "cart": {
+    "title": "Warenkorb",
+    "empty": "Ihr Warenkorb ist leer",
+    "total": "Gesamt",
+    "checkout": "Zur Kasse",
+    "continue_shopping": "Weiter einkaufen"
+  },
+  "auth": {
+    "login": {
+      "title": "Anmelden",
+      "email": "E-Mail",
+      "password": "Passwort",
+      "remember_me": "Angemeldet bleiben",
+      "forgot_password": "Passwort vergessen?",
+      "submit": "Anmelden",
+      "no_account": "Noch kein Konto?",
+      "register": "Registrieren"
+    },
+    "register": {
+      "title": "Registrieren",
+      "firstname": "Vorname",
+      "lastname": "Nachname",
+      "email": "E-Mail",
+      "password": "Passwort",
+      "password_confirmation": "Passwort bestätigen",
+      "submit": "Registrieren",
+      "has_account": "Bereits ein Konto?",
+      "login": "Anmelden"
+    }
+  },
+  "footer": {
+    "description": "Ihre Plattform für saisonale Küche, die lokale und saisonale Produkte in den Vordergrund stellt.",
+    "navigation": "Navigation",
+    "legal": "Rechtliches",
+    "newsletter": "Newsletter",
+    "newsletter_description": "Melden Sie sich an, um unsere besten Rezepte und Neuigkeiten zu erhalten.",
+    "email": "E-Mail",
+    "email_placeholder": "ihre@email.com",
+    "subscribe": "Abonnieren",
+    "privacy": "Datenschutz",
+    "terms": "Nutzungsbedingungen",
+    "cookies": "Cookie-Einstellungen",
+    "copyright": "© {year} Saisonale Küche. Alle Rechte vorbehalten."
+  },
+  "languages": {
+    "fr": "Französisch",
+    "en": "Englisch",
+    "de": "Deutsch"
+  }
+}

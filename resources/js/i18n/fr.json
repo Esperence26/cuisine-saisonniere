@@ -1,0 +1,133 @@
+{
+  "app": {
+    "name": "Cuisine Saisonnière"
+  },
+  "nav": {
+    "home": "Accueil",
+    "products": "Produits",
+    "recipes": "Recettes",
+    "about": "À propos",
+    "contact": "Contact",
+    "login": "Connexion",
+    "register": "Inscription",
+    "profile": "Profil",
+    "orders": "Commandes",
+    "logout": "Déconnexion"
+  },
+  "home": {
+    "hero": {
+      "title": "Découvrez la cuisine de saison",
+      "subtitle": "Des produits frais et locaux pour des recettes savoureuses",
+      "cta_primary": "Voir les produits",
+      "cta_secondary": "Nos recettes"
+    },
+    "featured_recipes": {
+      "title": "Recettes du moment",
+      "subtitle": "Des idées pour cuisiner les produits de saison"
+    },
+    "seasonal_products": {
+      "title": "Produits de saison",
+      "subtitle": "Sélectionnés avec soin auprès de nos producteurs locaux"
+    },
+    "features": {
+      "title": "Pourquoi choisir Cuisine Saisonnière ?",
+      "subtitle": "Des avantages qui font la différence",
+      "seasonal": "Produits de saison",
+      "seasonal_desc": "Des produits frais au meilleur de leur saison",
+      "local": "Producteurs locaux",
+      "local_desc": "Un réseau de producteurs passionnés",
+      "delivery": "Livraison rapide",
+      "delivery_desc": "Livraison à domicile ou en point relais"
+    }
+  },
+  "products": {
+    "title": "Nos produits",
+    "filter": {
+      "all": "Tous",
+      "vegetables": "Légumes",
+      "fruits": "Fruits",
+      "dairy": "Produits laitiers",
+      "meat": "Viandes",
+      "fish": "Poissons"
+    },
+    "sort": {
+      "price_asc": "Prix croissant",
+      "price_desc": "Prix décroissant",
+      "name_asc": "A à Z",
+      "name_desc": "Z à A"
+    },
+    "season": {
+      "spring": "Printemps",
+      "summer": "Été",
+      "autumn": "Automne",
+      "winter": "Hiver"
+    }
+  },
+  "recipe": {
+    "description": "Description",
+    "ingredients": "Ingrédients",
+    "instructions": "Instructions",
+    "portions": "portions",
+    "portions_calculator": "Calculateur de portions",
+    "preparation_time": "Temps de préparation",
+    "cooking_time": "Temps de cuisson",
+    "total_time": "Temps total",
+    "difficulty": {
+      "easy": "Facile",
+      "medium": "Moyen",
+      "hard": "Difficile"
+    },
+    "add_to_cart": "Ajouter les ingrédients au panier",
+    "save": "Sauvegarder",
+    "share": "Partager"
+  },
+  "cart": {
+    "title": "Panier",
+    "empty": "Votre panier est vide",
+    "total": "Total",
+    "checkout": "Commander",
+    "continue_shopping": "Continuer les achats"
+  },
+  "auth": {
+    "login": {
+      "title": "Connexion",
+      "email": "Email",
+      "password": "Mot de passe",
+      "remember_me": "Se souvenir de moi",
+      "forgot_password": "Mot de passe oublié ?",
+      "submit": "Se connecter",
+      "no_account": "Pas encore de compte ?",
+      "register": "S'inscrire"
+    },
+    "register": {
+      "title": "Inscription",
+      "firstname": "Prénom",
+      "lastname": "Nom",
+      "email": "Email",
+      "password": "Mot de passe",
+      "password_confirmation": "Confirmer le mot de passe",
+      "submit": "S'inscrire",
+      "has_account": "Déjà un compte ?",
+      "login": "Se connecter"
+    }
+  },
+  "footer": {
+    "description": "Votre plateforme de cuisine saisonnière, mettant en avant les produits locaux et de saison.",
+    "navigation": "Navigation",
+    "legal": "Mentions légales",
+    "newsletter": "Newsletter",
+    "newsletter_description": "Inscrivez-vous pour recevoir nos meilleures recettes et actualités.",
+    "email": "Email",
+    "email_placeholder": "votre@email.com",
+    "subscribe": "S'inscrire",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "cookies": "Gestion des cookies",
+    "copyright": "© {year} Cuisine Saisonnière. Tous droits réservés."
+  },
+  "languages": {
+    "fr": "Français",
+    "en": "Anglais",
+    "de": "Allemand"
+  }
+}

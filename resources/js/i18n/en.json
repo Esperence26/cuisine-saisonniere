@@ -1,0 +1,133 @@
+{
+  "app": {
+    "name": "Seasonal Cuisine"
+  },
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "recipes": "Recipes",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Login",
+    "register": "Register",
+    "profile": "Profile",
+    "orders": "Orders",
+    "logout": "Logout"
+  },
+  "home": {
+    "hero": {
+      "title": "Discover seasonal cuisine",
+      "subtitle": "Fresh, local products for delicious recipes",
+      "cta_primary": "View products",
+      "cta_secondary": "Our recipes"
+    },
+    "featured_recipes": {
+      "title": "Featured recipes",
+      "subtitle": "Ideas for cooking seasonal products"
+    },
+    "seasonal_products": {
+      "title": "Seasonal products",
+      "subtitle": "Carefully selected from our local producers"
+    },
+    "features": {
+      "title": "Why choose Seasonal Cuisine?",
+      "subtitle": "Benefits that make the difference",
+      "seasonal": "Seasonal products",
+      "seasonal_desc": "Fresh products at their seasonal best",
+      "local": "Local producers",
+      "local_desc": "A network of passionate producers",
+      "delivery": "Fast delivery",
+      "delivery_desc": "Home delivery or pickup point"
+    }
+  },
+  "products": {
+    "title": "Our products",
+    "filter": {
+      "all": "All",
+      "vegetables": "Vegetables",
+      "fruits": "Fruits",
+      "dairy": "Dairy",
+      "meat": "Meat",
+      "fish": "Fish"
+    },
+    "sort": {
+      "price_asc": "Price: low to high",
+      "price_desc": "Price: high to low",
+      "name_asc": "A to Z",
+      "name_desc": "Z to A"
+    },
+    "season": {
+      "spring": "Spring",
+      "summer": "Summer",
+      "autumn": "Autumn",
+      "winter": "Winter"
+    }
+  },
+  "recipe": {
+    "description": "Description",
+    "ingredients": "Ingredients",
+    "instructions": "Instructions",
+    "portions": "servings",
+    "portions_calculator": "Servings calculator",
+    "preparation_time": "Preparation time",
+    "cooking_time": "Cooking time",
+    "total_time": "Total time",
+    "difficulty": {
+      "easy": "Easy",
+      "medium": "Medium",
+      "hard": "Hard"
+    },
+    "add_to_cart": "Add ingredients to cart",
+    "save": "Save",
+    "share": "Share"
+  },
+  "cart": {
+    "title": "Cart",
+    "empty": "Your cart is empty",
+    "total": "Total",
+    "checkout": "Checkout",
+    "continue_shopping": "Continue shopping"
+  },
+  "auth": {
+    "login": {
+      "title": "Login",
+      "email": "Email",
+      "password": "Password",
+      "remember_me": "Remember me",
+      "forgot_password": "Forgot password?",
+      "submit": "Sign in",
+      "no_account": "Don't have an account?",
+      "register": "Sign up"
+    },
+    "register": {
+      "title": "Register",
+      "firstname": "First name",
+      "lastname": "Last name",
+      "email": "Email",
+      "password": "Password",
+      "password_confirmation": "Confirm password",
+      "submit": "Sign up",
+      "has_account": "Already have an account?",
+      "login": "Sign in"
+    }
+  },
+  "footer": {
+    "description": "Your seasonal cuisine platform, highlighting local and seasonal products.",
+    "navigation": "Navigation",
+    "legal": "Legal",
+    "newsletter": "Newsletter",
+    "newsletter_description": "Sign up to receive our best recipes and news.",
+    "email": "Email",
+    "email_placeholder": "your@email.com",
+    "subscribe": "Subscribe",
+    "privacy": "Privacy policy",
+    "terms": "Terms of use",
+    "cookies": "Cookie settings",
+    "copyright": "© {year} Seasonal Cuisine. All rights reserved."
+  },
+  "languages": {
+    "fr": "French",
+    "en": "English",
+    "de": "German"
+  }
+}

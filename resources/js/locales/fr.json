@@ -1,0 +1,276 @@
+{
+  "app": {
+    "name": "Cuisine Saisonnière",
+    "tagline": "Découvrez les saveurs de chaque saison"
+  },
+  "nav": {
+    "home": "Accueil",
+    "recipes": "Recettes",
+    "products": "Produits",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "auth": {
+    "sign_in": "Se connecter",
+    "create_account": "Créer un compte",
+    "login": {
+      "title": "Connexion",
+      "email": "Adresse e-mail",
+      "email_placeholder": "Votre adresse e-mail",
+      "password": "Mot de passe",
+      "password_placeholder": "Votre mot de passe",
+      "showPassword": "Afficher le mot de passe",
+      "remember_me": "Se souvenir de moi",
+      "forgot_password": "Mot de passe oublié ?",
+      "submit": "Se connecter",
+      "or": "Ou",
+      "register_link": "créer un compte",
+      "continue_with": "Ou continuer avec",
+      "loading": "Connexion en cours...",
+      "notMember": "Pas encore membre ?",
+      "register": "S'inscrire gratuitement",
+      "error": "Une erreur est survenue lors de la connexion. Veuillez réessayer."
+    },
+    "register": {
+      "title": "Créer un compte",
+      "first_name": "Prénom",
+      "first_name_placeholder": "Votre prénom",
+      "last_name": "Nom",
+      "last_name_placeholder": "Votre nom",
+      "email": "Adresse e-mail",
+      "email_placeholder": "Votre adresse e-mail",
+      "password": "Mot de passe",
+      "password_placeholder": "Votre mot de passe",
+      "password_confirmation": "Confirmation du mot de passe",
+      "password_confirmation_placeholder": "Confirmez votre mot de passe",
+      "showPassword": "Afficher les mots de passe",
+      "newsletter": "Je souhaite recevoir les actualités et les offres par e-mail",
+      "accept": "J'accepte les ",
+      "termsLink": "conditions d'utilisation",
+      "termsSuffix": "d'utilisation",
+      "submit": "Créer mon compte",
+      "or": "Ou",
+      "login_link": "se connecter",
+      "continue_with": "Ou continuer avec",
+      "loading": "Création du compte...",
+      "alreadyMember": "Déjà membre ?",
+      "login": "Se connecter",
+      "passwordMismatch": "Les mots de passe ne correspondent pas",
+      "error": "Une erreur est survenue lors de la création du compte. Veuillez réessayer."
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Mangez local, mangez de saison",
+      "subtitle": "Découvrez des recettes et des produits adaptés à chaque saison",
+      "description": "Explorez nos recettes authentiques créées avec des produits locaux et de saison. Une cuisine saine, durable et savoureuse à portée de main.",
+      "cta": {
+        "primary": "Découvrir nos recettes",
+        "secondary": "En savoir plus"
+      }
+    },
+    "categories": {
+      "title": "Explorez nos catégories",
+      "subtitle": "Découvrez notre sélection de produits frais et locaux par catégorie"
+    },
+    "featured_recipes": {
+      "title": "Recettes du moment",
+      "subtitle": "Des idées de recettes savoureuses pour sublimer les produits de saison"
+    },
+    "seasonal_tips": {
+      "title": "Conseils de saison",
+      "conservation": {
+        "title": "Conservation des légumes",
+        "description": "Apprenez à conserver vos légumes plus longtemps avec nos astuces simples."
+      },
+      "zero_waste": {
+        "title": "Cuisine zéro déchet",
+        "description": "Découvrez comment utiliser toutes les parties de vos légumes."
+      }
+    },
+    "newsletter": {
+      "title": "Restez informé",
+      "subtitle": "Inscrivez-vous à notre newsletter pour recevoir nos actualités et nos meilleures recettes de saison",
+      "email_label": "Adresse email",
+      "email_placeholder": "Entrez votre email",
+      "subscribe": "S'inscrire"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Notre passion pour une alimentation saine et locale",
+      "description": "Cuisine Saisonnière est née d'une vision simple : connecter les amateurs de bonne cuisine aux meilleurs produits locaux et de saison. Notre plateforme met en relation producteurs passionnés et consommateurs avertis."
+    },
+    "values": {
+      "title": "Nos valeurs fondamentales",
+      "description": "Nous sommes guidés par des principes forts qui façonnent chacune de nos actions et décisions."
+    },
+    "team": {
+      "title": "Notre équipe passionnée",
+      "description": "Des experts dévoués qui travaillent chaque jour pour vous offrir le meilleur de la cuisine saisonnière."
+    },
+    "stats": {
+      "title": "Notre impact en chiffres",
+      "description": "Depuis notre création, nous avons construit un réseau solide de producteurs et de passionnés de cuisine.",
+      "total_recipes": "Recettes disponibles",
+      "seasonal_products": "Produits de saison",
+      "active_chefs": "Chefs contributeurs",
+      "happy_users": "Utilisateurs satisfaits"
+    },
+    "cta": {
+      "title": "Rejoignez l'aventure Cuisine Saisonnière",
+      "description": "Découvrez une nouvelle façon de cuisiner, plus responsable et plus savoureuse.",
+      "button": "Contactez-nous"
+    }
+  },
+  "products": {
+    "hero": {
+      "title": "Nos produits de saison",
+      "description": "Découvrez notre sélection de produits frais, locaux et de saison, soigneusement sélectionnés auprès de nos producteurs partenaires."
+    },
+    "search": {
+      "placeholder": "Rechercher un produit..."
+    },
+    "filters": {
+      "categories": "Toutes les catégories",
+      "seasons": "Toutes les saisons",
+      "sort": {
+        "popular": "Les plus populaires",
+        "recent": "Plus récents",
+        "price-asc": "Prix croissant",
+        "price-desc": "Prix décroissant"
+      }
+    },
+    "empty": {
+      "title": "Aucun produit trouvé",
+      "description": "Essayez de modifier vos filtres ou votre recherche."
+    },
+    "loadMore": "Voir plus de produits"
+  },
+  "productDetail": {
+    "breadcrumb": {
+      "all": "Tous les produits"
+    },
+    "producer": {
+      "title": "Producteur"
+    },
+    "description": {
+      "title": "Description"
+    },
+    "properties": {
+      "title": "Caractéristiques",
+      "origin": "Origine",
+      "certification": "Certification",
+      "packaging": "Conditionnement",
+      "conservation": "Conservation"
+    },
+    "cart": {
+      "addToCart": "Ajouter au panier"
+    },
+    "delivery": {
+      "freeShipping": "Livraison gratuite à partir de 50€",
+      "localProduct": "Produit local et de saison",
+      "qualityGuarantee": "Qualité garantie"
+    },
+    "relatedProducts": {
+      "title": "Produits similaires"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contactez-nous",
+      "description": "Nous sommes là pour vous aider. N'hésitez pas à nous contacter pour toute question ou suggestion."
+    },
+    "address": {
+      "title": "Notre adresse",
+      "street": "123 Rue de la Cuisine",
+      "city": "75001 Paris",
+      "country": "France"
+    },
+    "phone": {
+      "title": "Téléphone",
+      "hours": "Du lundi au vendredi, 9h-18h"
+    },
+    "email": {
+      "title": "Email"
+    },
+    "form": {
+      "name": "Nom complet",
+      "email": "Adresse email",
+      "subject": "Sujet",
+      "message": "Message",
+      "send": "Envoyer le message",
+      "sending": "Envoi en cours...",
+      "success": "Votre message a été envoyé avec succès !",
+      "error": "Une erreur est survenue. Veuillez réessayer."
+    }
+  },
+  "footer": {
+    "description": "Votre plateforme de produits locaux et de recettes de saison",
+    "copyright": " {year} Cuisine Saisonnière. Tous droits réservés."
+  },
+  "recipes": {
+    "title": "Nos Recettes de Saison",
+    "description": "Découvrez notre collection de recettes authentiques, élaborées avec des produits locaux et de saison.",
+    "search_placeholder": "Rechercher une recette...",
+    "all_seasons": "Toutes les saisons",
+    "featured": "Recettes vedettes",
+    "categories_title": "Explorez nos catégories",
+    "stats": {
+      "total_recipes": "Recettes disponibles",
+      "seasonal_products": "Produits de saison",
+      "active_chefs": "Chefs contributeurs",
+      "happy_users": "Utilisateurs satisfaits"
+    }
+  },
+  "recipe": {
+    "difficulty": {
+      "easy": "Facile",
+      "medium": "Moyen",
+      "hard": "Difficile"
+    },
+    "prep_time": "Temps de préparation",
+    "cook_time": "Temps de cuisson",
+    "servings": "Portions",
+    "ingredients": "Ingrédients",
+    "instructions": "Instructions",
+    "tip": "Astuce du chef",
+    "related_recipes": "Recettes similaires",
+    "share": "Partager cette recette",
+    "print": "Imprimer la recette",
+    "save": "Sauvegarder",
+    "rating": {
+      "title": "Évaluation",
+      "reviews": "avis",
+      "leave_review": "Laisser un avis"
+    },
+    "nutrition": {
+      "title": "Valeurs nutritionnelles",
+      "per_serving": "Par portion",
+      "calories": "Calories",
+      "protein": "Protéines",
+      "carbs": "Glucides",
+      "fat": "Lipides"
+    }
+  },
+  "categories": {
+    "appetizers": "Entrées",
+    "appetizers_desc": "Des entrées légères et savoureuses",
+    "main_courses": "Plats principaux",
+    "main_courses_desc": "Des plats complets et équilibrés",
+    "desserts": "Desserts",
+    "desserts_desc": "Des desserts gourmands et de saison",
+    "fruits": "Fruits",
+    "fruits_desc": "Fruits frais de saison",
+    "vegetables": "Légumes",
+    "vegetables_desc": "Légumes locaux et de saison",
+    "herbs": "Herbes aromatiques",
+    "herbs_desc": "Herbes fraîches pour parfumer vos plats"
+  },
+  "seasons": {
+    "spring": "Printemps",
+    "summer": "Été",
+    "autumn": "Automne",
+    "winter": "Hiver"
+  }
+}
