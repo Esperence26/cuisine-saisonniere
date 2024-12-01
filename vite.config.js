@@ -15,4 +15,20 @@ export default defineConfig({
             '@': '/resources/js',
         },
     },
+    build: {
+        manifest: true,
+        outDir: 'public/build',
+        rollupOptions: {
+            output: {
+                manualChunks: {
+                    vendor: ['vue', 'vue-router', 'vue-i18n'],
+                },
+            },
+        },
+    },
+    server: {
+        hmr: {
+            host: process.env.VITE_DEV_SERVER_HOST || 'localhost',
+        },
+    },
 });
