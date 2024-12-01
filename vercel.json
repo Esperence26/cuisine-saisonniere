@@ -4,7 +4,7 @@
     "builds": [
         {
             "src": "api/index.php",
-            "use": "vercel-php@0.6.0"
+            "use": "@vercel/php@0.6.0"
         },
         {
             "src": "public/**",
@@ -12,21 +12,26 @@
         }
     ],
     "routes": [
-        { "src": "/build/(.*)", "dest": "/public/build/$1" },
-        { "src": "/resources/(.*)", "dest": "/public/resources/$1" },
-        { "src": "/(.*)", "dest": "/api/index.php" }
+        {
+            "src": "/(css|js|images|fonts|build)/(.*)",
+            "dest": "public/$1/$2"
+        },
+        {
+            "src": "/(.*)",
+            "dest": "/api/index.php"
+        }
     ],
     "env": {
         "APP_NAME": "Cuisine Saisonnière",
         "APP_ENV": "production",
         "APP_DEBUG": "false",
-        "APP_URL": "https://cuisine-saisonniere.vercel.app",
+        "APP_URL": "${VERCEL_URL}",
         "CACHE_DRIVER": "array",
         "LOG_CHANNEL": "stderr",
         "LOG_LEVEL": "info",
         "SESSION_DRIVER": "array",
-        "VIEW_COMPILED_PATH": "/tmp/views",
-        "SSR_TEMP_PATH": "/tmp/ssr",
-        "NODE_PATH": "node"
+        "VIEW_COMPILED_PATH": "/tmp",
+        "NODE_PATH": "node",
+        "PHP_VERSION": "8.2"
     }
 }
